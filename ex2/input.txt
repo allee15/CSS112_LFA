@@ -1,0 +1,34 @@
+States:
+A
+B
+C
+accept
+reject
+End
+Sigma:
+x
+y
+End
+Start:
+A
+End
+Tape:
+x
+y
+_
+End
+Transitions:
+A x x B x x R
+A y y reject y y R
+A _ _ reject _  _ R
+B y y B y y R
+B x x C x x R
+B _ _ reject _ _ R
+C y y reject y y R
+C x x reject x x R
+C _ _ accept _ _ R
+End
+Input:
+xyyx_
+End
+

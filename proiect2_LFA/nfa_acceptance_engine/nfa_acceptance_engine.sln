@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "nfa_acceptance_engine", "nfa_acceptance_engine.pyproj", "{DE381C06-72C7-43B8-96FA-527DEEA28244}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE381C06-72C7-43B8-96FA-527DEEA28244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE381C06-72C7-43B8-96FA-527DEEA28244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D9ABF0D-A735-48C8-BF47-513785570C97}
+	EndGlobalSection
+EndGlobal

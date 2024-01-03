@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "dfa_parser_engine", "dfa_parser_engine.pyproj", "{9DAA9A16-7D71-49E4-8A1F-60BB3FDD88D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DAA9A16-7D71-49E4-8A1F-60BB3FDD88D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DAA9A16-7D71-49E4-8A1F-60BB3FDD88D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {066A6D0D-3681-4176-897D-FEF175C16CFB}
+	EndGlobalSection
+EndGlobal

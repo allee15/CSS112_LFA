@@ -1,0 +1,5 @@
+S->a|bXY
+A->Bad|bSX|a
+B->aSB|bBXA
+X->SBD|aBX|ad
+Y->SBa|XYb
